@@ -6,8 +6,19 @@
   height: 70px;
   display: flex;
   flex-direction: column;
-  border-bottom: solid 1px #999999;
+  border-bottom: solid 1px #cccccc;
   position: relative;
+  h2 {
+    margin: 0;
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 200;
+  }
+}
+
+.logs {
+  display: flex;
 }
 
 .gq-top-nav {
@@ -26,7 +37,7 @@
   padding: 0px 10px;
   width: 100%;
   position: absolute;
-  bottom: -2px;
+  bottom: -3px;
   justify-content: space-between;
 }
 
@@ -46,7 +57,7 @@
 }
 
 .active {
-  border-bottom: solid 5px #999999;
+  border-bottom: solid 5px #cccccc;
 }
 
 

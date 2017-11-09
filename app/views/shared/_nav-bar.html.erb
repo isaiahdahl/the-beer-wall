@@ -1,8 +1,11 @@
 <div class="gq-navbar">
   <div class="gq-top-nav">
-    <%= link_to root_path, class: "navbar-wagon-brand" do %>
-        <%= image_tag "gq.png" %>
-    <% end %>
+    <div class="logs">
+      <%= link_to root_path, class: "navbar-wagon-brand" do %>
+          <%= image_tag "gq.png" %>
+      <% end %>
+      <h2>BEER WALL</h2>
+    </div>
     <% if user_signed_in? %><!-- Avatar with dropdown menu -->
       <div class="navbar-wagon-item">
         <div class="dropdown">
