@@ -16,7 +16,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "AMERICAN VINTAGE - HARD ICED TEA CAN",
                 "_id": 432,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "685165410019"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "REFRESHMENT BEVERAGE",
@@ -34,7 +34,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TWISTED TEA HALF & HALF CAN",
                 "_id": 3997,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "87692751311"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "REFRESHMENT BEVERAGE",
@@ -52,7 +52,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "THE ORIGINAL TWISTED TEA HARD ICED TEA",
                 "_id": 2430,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "87692831020"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "REFRESHMENT BEVERAGE",
@@ -70,7 +70,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CRABBIE'S - ORIGINAL GINGER BEER",
                 "_id": 3969,
                 "PRODUCT_MINOR_CLASS_NAME": "SPIRIT",
-                "PRODUCT_BASE_UPC_NO": "5011166019725"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "REFRESHMENT BEVERAGE",
@@ -88,7 +88,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BUD LIME - STRAW BER RITA",
                 "_id": 2676,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "18200229992"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "REFRESHMENT BEVERAGE",
@@ -106,7 +106,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CRABBIE'S - RASPBERRY ALCOHOLIC GINGER BEER",
                 "_id": 3700,
                 "PRODUCT_MINOR_CLASS_NAME": "SPIRIT",
-                "PRODUCT_BASE_UPC_NO": "5011166051336"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "REFRESHMENT BEVERAGE",
@@ -124,7 +124,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BUD LIME - LIME A RITA",
                 "_id": 3560,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "18200229985"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "SPIRITS",
@@ -142,7 +142,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SMIRNOFF - ROOT BEER FLOAT",
                 "_id": 3325,
                 "PRODUCT_MINOR_CLASS_NAME": "REGULAR VODKA",
-                "PRODUCT_BASE_UPC_NO": "82000767114"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "REFRESHMENT BEVERAGE",
@@ -160,7 +160,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "THE ORIGINAL TWISTED TEA HARD ICED TEA CAN",
                 "_id": 3206,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "87692831310"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -178,7 +178,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HEINEKEN LAGER",
                 "_id": 82,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "72890000033"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -196,7 +196,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - FLYING TANKER WHITE IPA",
                 "_id": 93,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001720"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -214,7 +214,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - PACIFIC PILSNER CAN",
                 "_id": 97,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "7745580007508"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -232,7 +232,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BRAVA - CAN",
                 "_id": 132,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774837585374"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -250,7 +250,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "YANJING",
                 "_id": 160,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "6903102102204"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -268,7 +268,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFICO CLARA",
                 "_id": 171,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "80660953014"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -286,7 +286,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GIGANTIC BREWING - IPA",
                 "_id": 190,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "859416003002"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -304,7 +304,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MILLER GENUINE DRAFT",
                 "_id": 192,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "34100172565"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -322,7 +322,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HELL'S GATE - LAGER CAN",
                 "_id": 199,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100011"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -340,7 +340,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LEFFE BLONDE",
                 "_id": 201,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "786150000243"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -358,7 +358,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CARIB LAGER",
                 "_id": 209,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "798713110085"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -376,7 +376,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ZYWIEC",
                 "_id": 211,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5901559950639"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -394,7 +394,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PILSNER URQUELL",
                 "_id": 238,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8594404000015"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -412,7 +412,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PROHIBITION - LAWLESS IPA",
                 "_id": 242,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "850635001176"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -430,7 +430,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STANLEY PARK - BELGIAN STYLE AMBER",
                 "_id": 244,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100103"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -448,7 +448,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - HUMPHREY BIERE DE GARDE",
                 "_id": 280,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990161578"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -466,7 +466,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - ORIGINAL DRAUGHT CAN",
                 "_id": 293,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910201082"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -484,7 +484,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CORONA EXTRA",
                 "_id": 301,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "1064106158"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -502,7 +502,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PERONI NASTRO AZZURRO",
                 "_id": 310,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8008440000583"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -520,7 +520,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAM WHISTLE - PILSNER",
                 "_id": 328,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "702915000013"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -538,7 +538,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUD LIGHT",
                 "_id": 337,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": ""
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -556,7 +556,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BLACK KETTLE BREWING - PALE ALE",
                 "_id": 350,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990187196"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -574,7 +574,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SAMUEL ADAMS OCTOBERFEST",
                 "_id": 398,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "87692891024"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -592,7 +592,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - HONEY BROWN LAGER CAN",
                 "_id": 399,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910233557"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -610,7 +610,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "INNIS & GUNN CONNOISSEUR'S OAK COLLECTION 2013",
                 "_id": 412,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5060190560932"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -628,7 +628,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUD LIGHT CAN",
                 "_id": 417,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067567377"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -646,7 +646,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIN WHISTLE - KILLER BEE DARK HONEY ALE",
                 "_id": 419,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624117860717"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -664,7 +664,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CAN",
                 "_id": 421,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067335457"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -682,7 +682,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PROPELLER - EXTRA SPECIAL BITTER",
                 "_id": 423,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "627587220203"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -700,7 +700,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MT BEGBIE - BEGBIE CREAM ALE",
                 "_id": 424,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "629216905949"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -718,7 +718,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BOMBER BREWING - ESB CANS",
                 "_id": 436,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "691395600021"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -736,7 +736,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - BLUE BUCK ALE",
                 "_id": 443,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990061137"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -754,7 +754,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TUBORG",
                 "_id": 445,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5740700997327"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -772,7 +772,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - FULL NELSON ORGANIC IMPERIAL IPA",
                 "_id": 462,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990161493"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -790,7 +790,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FAXE ROYAL STRONG TALL CAN",
                 "_id": 470,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5741000111420"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -808,7 +808,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BIG ROCK - GRASSHOPPER WHEAT ALE",
                 "_id": 489,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "64294613940"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -826,7 +826,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "R & B - DARK STAR OATMEAL STOUT",
                 "_id": 511,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990071266"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -844,7 +844,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER",
                 "_id": 513,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067335044"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -862,7 +862,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - PACIFIC PILSNER CAN",
                 "_id": 514,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558000606"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -880,7 +880,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CAN",
                 "_id": 515,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067335402"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -898,7 +898,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - COORS LIGHT CAN",
                 "_id": 516,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327183254"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -916,7 +916,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GREAT WESTERN - GOLD CAN",
                 "_id": 517,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "773804182066"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -934,7 +934,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BECKS",
                 "_id": 525,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4100130923524"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -952,7 +952,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - ENGLISH BAY PALE ALE CAN",
                 "_id": 526,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446120121"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -970,7 +970,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WELLS INDIA PALE ALE TALL CAN",
                 "_id": 548,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "700330000052"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -988,7 +988,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER COPPER ALE TALL CAN",
                 "_id": 557,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002072"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1006,7 +1006,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - FILTHY DIRTY IPA",
                 "_id": 582,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990204152"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1024,7 +1024,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RED TRUCK ALE",
                 "_id": 591,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "858054001067"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1042,7 +1042,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PILSNER URQUELL TALL CAN",
                 "_id": 604,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8594404010038"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1060,7 +1060,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER REIGN OF HOPS MIXER PACK CAN",
                 "_id": 618,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002454"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1078,7 +1078,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - CHARACTER CAN",
                 "_id": 632,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202544"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1096,7 +1096,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOWE SOUND - POTHOLE FILLER IMPERIAL STOUT",
                 "_id": 640,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "855287001178"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1114,7 +1114,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - BANANA HAMMOCK SUMMER HEFEWEIZEN",
                 "_id": 644,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990161592"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1132,7 +1132,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WIDMAR OMISSION PALE ALE GLUTEN FREE",
                 "_id": 646,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "702770082018"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1150,7 +1150,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CANNERY - SKAHA SUMMER ALE",
                 "_id": 647,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990185444"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1168,7 +1168,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - THE SEASONAL CITRUS WIT",
                 "_id": 652,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990152651"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1186,7 +1186,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY & PARALLEL 49 MYSTERY GIFT HOLIDAY COUNTDOWN PK",
                 "_id": 664,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002287"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1204,7 +1204,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STANLEY PARK - LORD STANLEY'S PICK WINTER",
                 "_id": 674,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100448"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1222,7 +1222,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - WINTER MOUNTAIN MIXER",
                 "_id": 677,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990051213"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1240,7 +1240,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOWE SOUND - KING HEFFY IMPERIAL HEFEWEIZEN",
                 "_id": 679,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "855287001154"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1258,7 +1258,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOWE SOUND - FATHER JOHN'S WINTER ALE",
                 "_id": 680,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "855287001116"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1276,7 +1276,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BIG ROCK - WINTER SPICE",
                 "_id": 682,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "64294620191"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1294,7 +1294,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WYCHWOOD - BAH HUMBUG",
                 "_id": 688,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5023625005378"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1312,7 +1312,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PILSNER URQUELL TALL CAN",
                 "_id": 932,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "84404500014"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1330,7 +1330,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - SAP SUCKER MAPLE PORTER",
                 "_id": 708,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990110989"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1348,7 +1348,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OMMEGANG - GAME OF THRONES VALAR MORGHULIS",
                 "_id": 710,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "649440100378"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1366,7 +1366,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DOS EQUIS XX ESPECIAL LAGER",
                 "_id": 723,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "72311630122"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1384,7 +1384,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - THE HOBBIT GOLLUM'S PRECIOUS PILS",
                 "_id": 726,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002560"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1402,7 +1402,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CANNERY - SQUIRE SCOTCH ALE",
                 "_id": 805,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990104704"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1420,7 +1420,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - CARIBOO GENUINE DRAFT CAN",
                 "_id": 783,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558001146"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1438,7 +1438,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RADEBERGER PILSNER TALL CAN",
                 "_id": 801,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4014388000169"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1456,7 +1456,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STROH CANADA - RAINIER CAN",
                 "_id": 1868,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910002177"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1474,7 +1474,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - HIGH TRAIL HONEY ALE",
                 "_id": 836,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001447"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1492,7 +1492,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CASS",
                 "_id": 845,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "795652110046"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1510,7 +1510,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIN WHISTLE - SCORPION DOUBLE IPA",
                 "_id": 860,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990034810"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1528,7 +1528,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PERONI 500ML CAN WITH GLASS PACK",
                 "_id": 895,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8008440422026"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1546,7 +1546,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - HOPARAZZI INDIA PALE LAGER",
                 "_id": 915,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990130352"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1564,7 +1564,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - GRIZ PALE ALE CAN",
                 "_id": 941,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990043379"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1582,7 +1582,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOFBRAU ORIGINAL",
                 "_id": 945,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4005686001095"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1600,7 +1600,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOON UNDER WATER - CREEPY UNCLE DUNKEL",
                 "_id": 955,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990150848"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1618,7 +1618,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BECKS TALL CAN",
                 "_id": 975,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "82488000055"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1636,7 +1636,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOLSTEN FESTBOCK TALL CAN",
                 "_id": 988,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "40678733"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1654,7 +1654,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - POUND STERLING FRESH HOPPED PILSNER",
                 "_id": 1017,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990161691"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1672,7 +1672,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER INDIA PALE ALE CAN",
                 "_id": 1062,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "891810001512"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1690,7 +1690,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WARSTEINER PREMIUM DUNKEL TALL CAN",
                 "_id": 1073,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "82054133316"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1708,7 +1708,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - WHAT THE HUCK HUCKLEBERRY WHEAT ALE",
                 "_id": 1076,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990102267"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1726,7 +1726,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - 1516 BAVARIAN LAGER CAN",
                 "_id": 1078,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910003129"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1744,7 +1744,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TETLEYS SMOOTH FLOW TALL CAN",
                 "_id": 1118,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "80660959788"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1762,7 +1762,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOEGAARDEN",
                 "_id": 1120,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5410228149699"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1780,7 +1780,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STROH CANADA - COLT 45 MALT LIQUOR CAN",
                 "_id": 1125,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910002207"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1798,7 +1798,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - 1516 BAVARIAN LAGER",
                 "_id": 1162,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910001002"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1816,7 +1816,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER PALE ALE CAN",
                 "_id": 1146,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "891810001116"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1834,7 +1834,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STROH CANADA - RAINIER CAN",
                 "_id": 1153,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910403257"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1852,7 +1852,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WYCHWOOD - PADDY'S TOUT",
                 "_id": 1155,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011348012315"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1870,7 +1870,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LAGUNITAS IPA",
                 "_id": 1172,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "723830000094"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1888,7 +1888,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SAPPORO PREMIUM",
                 "_id": 1180,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910600106"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1906,7 +1906,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "R & B - RAVEN CREAM ALE",
                 "_id": 1214,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990008668"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1924,7 +1924,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HELL'S GATE - HONEY CAN",
                 "_id": 1190,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305101100"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1942,7 +1942,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MILLER GENUINE DRAFT",
                 "_id": 1198,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "34100175054"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1960,7 +1960,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE CAN 30 PK",
                 "_id": 1200,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067374463"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1978,7 +1978,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CAN 30 PK",
                 "_id": 1202,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067335464"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -1996,7 +1996,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - BLACK SUPREME CAN",
                 "_id": 1205,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327003149"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2014,7 +2014,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TYSKIE",
                 "_id": 1206,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5901359000367"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2032,7 +2032,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CHIMAY BLUE CAP",
                 "_id": 1751,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5410908000036"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2050,7 +2050,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - PALE ALE TALL CAN",
                 "_id": 1755,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000492"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2068,7 +2068,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - ORIGINAL DRAUGHT",
                 "_id": 1757,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910200122"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2086,7 +2086,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BL PLATINUM SLIM CAN",
                 "_id": 1265,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067960475"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2104,7 +2104,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUD LIGHT LIME CAN",
                 "_id": 1269,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "18200159831"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2122,7 +2122,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER",
                 "_id": 1288,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067335020"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2140,7 +2140,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE",
                 "_id": 1289,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067374029"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2158,7 +2158,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BLUE CAN",
                 "_id": 1290,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067351341"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2176,7 +2176,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN CAN",
                 "_id": 1291,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327073258"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2194,7 +2194,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOOSEHEAD LAGER",
                 "_id": 1293,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "776029700282"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2212,7 +2212,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MCAUSLAN - ST AMBROISE PALE ALE",
                 "_id": 1297,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "55480001009"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2230,7 +2230,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIN WHISTLE - PEACH CREAM ALE",
                 "_id": 1299,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624117441169"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2248,7 +2248,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - ENGLISH BAY PALE ALE",
                 "_id": 1301,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446120053"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2266,7 +2266,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - ISLAND LAGER",
                 "_id": 1302,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446105050"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "DE-ALCOHOLIZED BEER",
@@ -2284,7 +2284,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CLAUSTHALER PREMIUM",
                 "_id": 1307,
                 "PRODUCT_MINOR_CLASS_NAME": "DE-ALCOHOLIZED BEER",
-                "PRODUCT_BASE_UPC_NO": "4053400001012"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2302,7 +2302,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "YOUNG'S DOUBLE CHOCOLATE STOUT",
                 "_id": 1318,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011876000358"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2320,7 +2320,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COURAGE DIRECTORS TALL CAN",
                 "_id": 1319,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5000264012981"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2338,7 +2338,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - DEFIBRILLATOR DOPPELBOCK",
                 "_id": 1347,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990179801"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2356,7 +2356,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - VCBW PREVALE",
                 "_id": 1398,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002096"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2374,7 +2374,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "INNIS & GUNN GIFT PACK 2014",
                 "_id": 1399,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5060190561816"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2392,7 +2392,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - VERTICAL WINTER ALE",
                 "_id": 1410,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202377"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2410,7 +2410,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SAMUEL ADAMS FAT JACK",
                 "_id": 1415,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "87692000297"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2428,7 +2428,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - SALTY SCOT SEA SALTED CARAMEL SCOTCH ALE",
                 "_id": 1419,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990137863"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2446,7 +2446,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BOWEN ISLAND - SUMMER SAMPLER PACK CAN",
                 "_id": 1420,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990098515"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2464,7 +2464,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - GRAPEFRUIT ALE",
                 "_id": 1421,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990102892"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2482,7 +2482,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - TRAVEL PACK CANS",
                 "_id": 1424,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990129356"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2500,7 +2500,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - N2 SERIES E.S.B",
                 "_id": 1425,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990179771"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2518,7 +2518,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER SPICED PUMPKIN ALE",
                 "_id": 1446,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "891810001628"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2536,7 +2536,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOWE SOUND - PUMPKINEATER IMPERIAL PUMPKIN ALE",
                 "_id": 1447,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "855287001130"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2554,7 +2554,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DESCHUTES - BLACK BUTTE XXVI",
                 "_id": 1448,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "763176250227"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2572,7 +2572,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CHIMAY RED CAP",
                 "_id": 1455,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "81706000013"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2590,7 +2590,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - HEY DAY HEFEWEIZEN",
                 "_id": 1555,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446176012"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2608,7 +2608,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - THE HOBBIT SMAUG STOUT",
                 "_id": 1467,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002577"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2626,7 +2626,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CANNERY - MAPLE STOUT",
                 "_id": 1469,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990089162"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2644,7 +2644,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DOS EQUIS XX AMBER",
                 "_id": 1488,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "72311630115"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2662,7 +2662,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - WINTER BEERACLE WINTER ALE",
                 "_id": 1522,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990143383"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2680,7 +2680,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - SNOWCASE PACK",
                 "_id": 1523,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "818278000321"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2698,7 +2698,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - MINGLER",
                 "_id": 1554,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446182051"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2716,7 +2716,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NEGRA MODELO",
                 "_id": 1563,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "7501064192111"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2734,7 +2734,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KIRIN ICHIBAN",
                 "_id": 1568,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "40063175468"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2752,7 +2752,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - SEA DOG AMBER ALE",
                 "_id": 1571,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001485"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2770,7 +2770,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BOWEN ISLAND - ARTISAN IPA",
                 "_id": 1573,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990098584"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2788,7 +2788,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - RACE ROCKS ALE CAN",
                 "_id": 1575,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000112"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2806,7 +2806,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOWE SOUND - LAGER CAN",
                 "_id": 1594,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "855287001512"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2824,7 +2824,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - WHISKEY JACK ALE",
                 "_id": 1610,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990102915"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2842,7 +2842,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CORONA EXTRA",
                 "_id": 1631,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "1064102150"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2860,7 +2860,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - BOTTLE ROCKET INDIA SESSION ALE",
                 "_id": 1643,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990122111"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2878,7 +2878,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DUPONT - SAISON DUPONT VIEILLE PROVISION",
                 "_id": 1658,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5410702000317"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2896,7 +2896,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DUPONT - MOINETTE BLONDE",
                 "_id": 1660,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5410702000119"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2914,7 +2914,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - ISLANDER LAGER CAN",
                 "_id": 1680,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001270"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2932,7 +2932,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN 67 CAN",
                 "_id": 1696,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": ""
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2950,7 +2950,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WOLF - RANNOCH SCOTCH ALE",
                 "_id": 1717,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990154303"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2968,7 +2968,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - WINTER DUNKEL",
                 "_id": 2258,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990088073"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -2986,7 +2986,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GROLSCH PREMIUM LAGER",
                 "_id": 1781,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "83741531460"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3004,7 +3004,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ASAHI SUPER DRY",
                 "_id": 1801,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8855366005600"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3022,7 +3022,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BOMBER BREWING - MIXED PACK CAN",
                 "_id": 1818,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "691395600113"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3040,7 +3040,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALEXANDER KEITH'S - INDIA PALE ALE CAN",
                 "_id": 1819,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067121241"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3058,7 +3058,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LOWENBRAU ORIGINAL TALL CAN",
                 "_id": 1822,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "40786179"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3076,7 +3076,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STELLA ARTOIS",
                 "_id": 1823,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "786150000014"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3094,7 +3094,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - HONEY BROWN LAGER CAN",
                 "_id": 1824,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910233656"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3112,7 +3112,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KILKENNY IRISH CREAM ALE DRAUGHT CAN",
                 "_id": 1830,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "623254000031"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3130,7 +3130,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - TNT STRONG CAN",
                 "_id": 1834,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558001825"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3148,7 +3148,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SUENNER KOELSCH",
                 "_id": 1843,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4104740010308"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3166,7 +3166,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ASAHI SUPER DRY BIG CAN",
                 "_id": 1851,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990005148"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3184,7 +3184,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CORONA EXTRA LA GRANDE",
                 "_id": 1860,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "80660956411"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3202,7 +3202,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GUINNESS PUB DRAUGHT CAN",
                 "_id": 1863,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5000213101025"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3220,7 +3220,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STROH CANADA - OLD MILWAUKEE CAN",
                 "_id": 1867,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910002160"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3238,7 +3238,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RICKARDS SUMMER TASTER PACK",
                 "_id": 1879,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327008519"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3256,7 +3256,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALEXANDER KEITH'S - INDIA PALE ALE CAN",
                 "_id": 1881,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067121371"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3274,7 +3274,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUSCH ICE CAN",
                 "_id": 1899,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067811371"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3292,7 +3292,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CORONA LIGHT",
                 "_id": 1902,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "1064202157"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3310,7 +3310,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PERSEPHONE  - GODDESS GOLDEN ALE CAN",
                 "_id": 1910,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990186076"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3328,7 +3328,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - ISLANDER LAGER CAN",
                 "_id": 1914,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001331"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3346,7 +3346,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - PALE ALE",
                 "_id": 1922,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000232"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3364,7 +3364,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KEYSTONE - LIGHT CAN",
                 "_id": 1926,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327005952"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3382,7 +3382,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MAD & NOISY - HOPS & BOLTS INDIA PALE LAGER",
                 "_id": 1930,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "627005500061"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3400,7 +3400,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - DOUGH HEAD GINGERBREAD ALE",
                 "_id": 1932,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001775"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3418,7 +3418,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - PALE ALE CAN",
                 "_id": 1940,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910003501"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3436,7 +3436,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MCAUSLAN - ST AMBROISE APRICOT WHEAT ALE",
                 "_id": 1947,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "55480017109"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3454,7 +3454,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - PACIFIC PILSNER CAN",
                 "_id": 1954,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558001351"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3472,7 +3472,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CREEMORE SPRINGS - PREMIUM LAGER",
                 "_id": 1956,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "627005060060"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3490,7 +3490,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BARD'S TALE - BARDS GOLD GLUTEN FREE",
                 "_id": 1985,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "182608000016"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3508,7 +3508,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DRIFTWOOD - PALE ALE",
                 "_id": 2006,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628201000010"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3526,7 +3526,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - SCANDAL ALE ORGANIC",
                 "_id": 2007,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558001511"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3544,7 +3544,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN",
                 "_id": 2008,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327072572"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3562,7 +3562,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CAN",
                 "_id": 2009,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067201264"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3580,7 +3580,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - ANALOGUE 78 KOLSCH",
                 "_id": 2023,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990122074"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3598,7 +3598,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LAGUNITAS - IMPERIAL RED ALE",
                 "_id": 2024,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "723830000032"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3616,7 +3616,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN",
                 "_id": 2032,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327072558"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3634,7 +3634,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - LUCKY LAGER",
                 "_id": 2033,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067355028"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3652,7 +3652,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUD LIGHT CAN",
                 "_id": 2034,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067201219"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3670,7 +3670,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOOTENAY TRUE ALE CAN",
                 "_id": 2035,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067123344"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3688,7 +3688,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - SILVER CREEK LAGER",
                 "_id": 2036,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910111800"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3706,7 +3706,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE",
                 "_id": 2038,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067374043"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3724,7 +3724,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE CAN",
                 "_id": 2041,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067374401"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3742,7 +3742,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "R & B - EAST SIDE BITTER",
                 "_id": 2042,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990138006"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3760,7 +3760,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - PALE ALE CAN",
                 "_id": 2045,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910002504"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3778,7 +3778,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SCHNITZER BRAU - ORGANIC GLUTEN FREE LAGER",
                 "_id": 2054,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4260108510023"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3796,7 +3796,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DOUBLE TROUBLE - HOPS AND ROBBERS IPA",
                 "_id": 2058,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "830803001214"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3814,7 +3814,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BOWEN ISLAND - MUTINY RED ALE CAN",
                 "_id": 2071,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990183662"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3832,7 +3832,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WELLS BANANA BREAD",
                 "_id": 2073,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5000264012776"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3850,7 +3850,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OMMEGANG GAME OF THRONES FIRE & BLOOD",
                 "_id": 2091,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "649440341320"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3868,7 +3868,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KRONENBOURG 1664 BLANC TALL CAN",
                 "_id": 2092,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "3080216031811"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3886,7 +3886,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - WILD RIDE 2ND ANNIVERSARY BELGIAN STRONG ALE",
                 "_id": 2097,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990179849"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3904,7 +3904,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NOLI BREWHOUSE - BORN AND RAISED IPA",
                 "_id": 2123,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "658403329121"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3922,7 +3922,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - MASH-UP VOLUME 2",
                 "_id": 2129,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000959"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3940,7 +3940,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BAD TATTOO - WESTCOAST IPA",
                 "_id": 2139,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990207122"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3958,7 +3958,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER SESSION MIXER CAN",
                 "_id": 2140,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002188"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3976,7 +3976,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MILL ST. BREWERY - SEASONAL SAMPLER 12",
                 "_id": 2150,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "855315001002"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -3994,7 +3994,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - CUTTHROAT PALE ALE TALL CAN",
                 "_id": 2153,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524201356"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4012,7 +4012,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SHAFTEBURY - COASTAL CREAM ALE TALL CAN",
                 "_id": 2154,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "569103200293"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4030,7 +4030,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - MELLOW MOON",
                 "_id": 2155,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202629"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4048,7 +4048,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - CHARACTER WINTER PACK",
                 "_id": 2157,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202407"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4066,7 +4066,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WYCHWOOD - GINGER BEARD",
                 "_id": 2158,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011348010335"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4084,7 +4084,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DUCHY ORIGINALS ORGANIC OLD RUBY ALE",
                 "_id": 2160,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5023625004333"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4102,7 +4102,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - THE WINTER MIXER",
                 "_id": 2163,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990171096"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4120,7 +4120,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - PUMPKIN ALE",
                 "_id": 2170,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000348"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4138,7 +4138,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MT BEGBIE - DARK SIDE OF THE STOKE COFFEE STOUT",
                 "_id": 2175,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990165200"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4156,7 +4156,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MCAUSLAN - ST AMBROISE PUMPKIN ALE",
                 "_id": 2195,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "55480016041"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4174,7 +4174,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - PUMPKIN HEAD BROWN ALE",
                 "_id": 2197,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990110330"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4192,7 +4192,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FULLERS 2014 VINTAGE ALE",
                 "_id": 2223,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011885011192"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4210,7 +4210,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - ROLLING ROCK CAN",
                 "_id": 2227,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067397349"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4228,7 +4228,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALEXANDER KEITH'S - INDIA PALE ALE",
                 "_id": 2228,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067121036"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4246,7 +4246,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STANLEY PARK - WINDSTORM TALL CAN",
                 "_id": 2237,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305102275"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4264,7 +4264,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RUSSELL - A WEE ANGRY SCOTCH ALE",
                 "_id": 2238,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "696540150185"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4282,7 +4282,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MORETTI",
                 "_id": 2249,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8006890322941"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4300,7 +4300,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NEW BELGIUM - FAT TIRE AMBER ALE",
                 "_id": 2281,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "754527000226"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4318,7 +4318,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CORONITAS",
                 "_id": 2282,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "80660954011"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4336,7 +4336,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - EXTRA OLD STOCK CAN",
                 "_id": 2716,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327273276"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4354,7 +4354,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BOWEN ISLAND - TWISTED TRAIL EXTRA PALE ALE",
                 "_id": 2317,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990061311"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4372,7 +4372,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BIG SURF - LAID BACK LAGER CAN",
                 "_id": 2370,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "850635001008"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4390,7 +4390,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - SLIPSTREAM CREAM ALE",
                 "_id": 2390,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990036302"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4408,7 +4408,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - FIRST TRAX  BROWN ALE CAN",
                 "_id": 2447,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990043362"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4426,7 +4426,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MICHELOB - ULTRA SLIM CAN",
                 "_id": 2451,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067547478"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4444,7 +4444,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CARLSBERG TALL CAN",
                 "_id": 2456,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5740600020637"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4462,7 +4462,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOLSTEN PREMIUM TALL CAN",
                 "_id": 2465,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "406200007892"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4480,7 +4480,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MT BEGBIE - TALL TIMBER ALE CAN",
                 "_id": 2468,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990148913"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4498,7 +4498,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TSINGTAO",
                 "_id": 2470,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "6901035601030"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4516,7 +4516,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "EFES PILSENER TURKEY",
                 "_id": 2473,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8690520030612"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4534,7 +4534,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SAMUEL ADAMS BOSTON LAGER",
                 "_id": 2478,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "87692100126"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4552,7 +4552,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BRIO TALL CAN",
                 "_id": 2498,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5690541006781"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4570,7 +4570,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - BEAR PAW HONEY LAGER",
                 "_id": 2519,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990061755"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4588,7 +4588,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - CLOUDY AMBER ALE",
                 "_id": 2533,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910020065"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4606,7 +4606,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUSCH  CAN",
                 "_id": 2549,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067318375"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4624,7 +4624,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WERNESGRUNER PILS TALL CAN",
                 "_id": 2562,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4015444000055"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4642,7 +4642,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PYRAMID BREWERIES - SEASONAL CURVE BALL BLONDE ALE",
                 "_id": 2565,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "76420911387"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4660,7 +4660,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - HONEY BROWN LAGER",
                 "_id": 2717,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910230068"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4678,7 +4678,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER IMPERIAL IPA",
                 "_id": 2571,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "891810001758"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4696,7 +4696,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SIERRA SEASONAL",
                 "_id": 2610,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "83783228229"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4714,7 +4714,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - WILDCAT STRONG CAN",
                 "_id": 2789,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": ""
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4732,7 +4732,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GROLSCH PREMIUM LAGER TALL CAN",
                 "_id": 2619,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "83741150012"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4750,7 +4750,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - HONEY BROWN LAGER CAN",
                 "_id": 2623,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910231157"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4768,7 +4768,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WARSTEINER PREMIUM VERUM TALL CAN",
                 "_id": 2631,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4000856307465"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4786,7 +4786,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BUD LIGHT LIME",
                 "_id": 2672,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "18200149900"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4804,7 +4804,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GUINNESS PUB DRAUGHT BOTTLE",
                 "_id": 2695,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "622153535439"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4822,7 +4822,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CROWN",
                 "_id": 2697,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067338021"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4840,7 +4840,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STROH CANADA - OLD MILWAUKEE LIGHT CAN",
                 "_id": 2706,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910402359"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4858,7 +4858,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BAVARIA ORIGINAL BREW",
                 "_id": 2711,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8714800017282"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4876,7 +4876,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FULLERS LONDON PRIDE TALL CAN",
                 "_id": 2712,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011885002190"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4894,7 +4894,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ESTRELLA DAMM INEDIT",
                 "_id": 2713,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8410793333179"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4912,7 +4912,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - PADDYWHACK IPA ORGANIC",
                 "_id": 2715,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626117100046"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4930,7 +4930,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - CYPRESS HONEY LAGER CAN",
                 "_id": 2719,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446140129"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4948,7 +4948,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - THE UNPARALLELED PACK",
                 "_id": 2724,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990132189"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4966,7 +4966,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KARMELIET TRIPEL",
                 "_id": 2732,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "54050082"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -4984,7 +4984,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SALTSPRING - GOLDEN ALE",
                 "_id": 2734,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990014614"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5002,7 +5002,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN 67 TANGERINE TWIST CAN",
                 "_id": 2748,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327009172"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5020,7 +5020,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RICKARDS SHANDY CAN",
                 "_id": 2750,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327009233"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5038,7 +5038,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - OLD STYLE PILSNER CAN",
                 "_id": 3503,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327593206"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5056,7 +5056,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER INDIA SESSION CAN",
                 "_id": 3511,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002027"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5074,7 +5074,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - LIONS WINTER ALE",
                 "_id": 3516,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446177019"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5092,7 +5092,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GREEN FLASH - WESTCOAST IPA",
                 "_id": 3519,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "830746001173"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5110,7 +5110,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - PROJECT 9 PILSNER CAN",
                 "_id": 2782,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990182399"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5128,7 +5128,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - WILD HONEY ORGANIC ALE CAN",
                 "_id": 2791,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626117100091"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5146,7 +5146,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KEYSTONE - LAGER",
                 "_id": 2799,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327005983"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5164,7 +5164,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - PIPER'S PALE ALE",
                 "_id": 2807,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001034"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5182,7 +5182,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - EXTRA OLD STOCK CAN",
                 "_id": 2808,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327273238"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5200,7 +5200,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - LUCKY LAGER CAN",
                 "_id": 2809,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067355349"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5218,7 +5218,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CAN",
                 "_id": 2810,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067335341"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5236,7 +5236,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - WILDCAT STRONG CAN",
                 "_id": 2811,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067366376"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5254,7 +5254,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BLUE CAN",
                 "_id": 2812,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067351402"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5272,7 +5272,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE CAN",
                 "_id": 2813,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067374425"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5290,7 +5290,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - GENUINE LAGER CAN",
                 "_id": 2814,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067310409"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5308,7 +5308,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - IRONHORSE ORIGINAL CAN",
                 "_id": 2819,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558002006"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5326,7 +5326,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RICKARDS RED",
                 "_id": 2820,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327672536"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5344,7 +5344,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - PORTER",
                 "_id": 2822,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910000401"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5362,7 +5362,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - COORS LIGHT CAN",
                 "_id": 2823,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327183278"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5380,7 +5380,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BLUE CAN",
                 "_id": 2825,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067351372"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5398,7 +5398,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOYNE - DARK MATTER",
                 "_id": 2826,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "6269901273522"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "DE-ALCOHOLIZED BEER",
@@ -5416,7 +5416,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOLSTEN ALCOHOL FREE",
                 "_id": 2832,
                 "PRODUCT_MINOR_CLASS_NAME": "DE-ALCOHOLIZED BEER",
-                "PRODUCT_BASE_UPC_NO": "4067800002098"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5434,7 +5434,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BARKERVILLE - HOUND OF BARKERVILLE",
                 "_id": 2841,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "816052000048"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5452,7 +5452,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "UNICER - SUPER BOCK TALL CAN",
                 "_id": 2842,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5601164113701"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5470,7 +5470,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SIERRA NEVADA - KELLERWEIS",
                 "_id": 2848,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "83783331011"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5488,7 +5488,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WELLS - STICKY TOFFEE PUDDING ALE",
                 "_id": 2851,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5000264002616"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5506,7 +5506,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOWE SOUND - CLOUDBURST LEMONGRASS WHITE IPA",
                 "_id": 2856,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "855287001437"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5524,7 +5524,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER RED ALE TALL CAN",
                 "_id": 2864,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002089"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5542,7 +5542,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - ROLLING ROCK",
                 "_id": 2887,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067397028"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5560,7 +5560,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RED TRUCK LAGER CAN",
                 "_id": 2895,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "858054001036"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5578,7 +5578,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "UNIBROUE - LA RESOLUTION",
                 "_id": 2900,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910788750"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5596,7 +5596,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - CRAFT PACK",
                 "_id": 2907,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910001224"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5614,7 +5614,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - OCTOFOX IPA",
                 "_id": 2914,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "818278000727"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5632,7 +5632,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - CHARACTER WINTER CAN",
                 "_id": 2933,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524203015"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5650,7 +5650,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FULLERS ORGANIC HONEY DEW",
                 "_id": 2935,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011885008420"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5668,7 +5668,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "AC/DC TALL CAN",
                 "_id": 2936,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "858377000921"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5686,7 +5686,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MCAUSLAN - ST AMBROISE COLLECTION PACK",
                 "_id": 2937,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "55480020109"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5704,7 +5704,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - SEEDSPITTER WATERMELON WIT",
                 "_id": 2938,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990130376"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5722,7 +5722,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - VALLEY TRAIL CHESTNUT ALE",
                 "_id": 2944,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990170303"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5740,7 +5740,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SAMUEL ADAMS REBEL IPA",
                 "_id": 2947,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "87692001270"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5758,7 +5758,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BIG ROCK - BARN BURNER VARIETY PACK",
                 "_id": 2950,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "64294623970"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5776,7 +5776,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - FACEPLANT ORGANIC WINTER ALE CAN",
                 "_id": 2951,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626117100107"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5794,7 +5794,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STANLEY PARK - WIT",
                 "_id": 2969,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100851"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5812,7 +5812,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SPINNAKERS - NUT BROWN ALE",
                 "_id": 2975,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "690039020027"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5830,7 +5830,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - SEAPORT VANILLA STOUT",
                 "_id": 2976,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000419"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5848,7 +5848,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - WEEPING REAPER BLOOD ORANGE HELLES BOCK",
                 "_id": 2979,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990206507"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5866,7 +5866,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - SUN OF HOP PALE ALE",
                 "_id": 2981,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990179856"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5884,7 +5884,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NEW BELGIUM - RAMPANT IMPERIAL IPA",
                 "_id": 6144,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "754527004248"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5902,7 +5902,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BARON BOHEMIAN TMAVY LEZAK",
                 "_id": 36,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8594010300042"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5920,7 +5920,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STELLA ARTOIS CAN",
                 "_id": 37,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "786150000267"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5938,7 +5938,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - CARIBOO HONEY LAGER CAN",
                 "_id": 40,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558000507"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5956,7 +5956,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STANLEY PARK - BELGIAN STYLE PILSNER",
                 "_id": 43,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100264"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5974,7 +5974,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CARACOLE NOSTRADAMUS BRUNE",
                 "_id": 48,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5425000540243"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -5992,7 +5992,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - WINTER MINGLER",
                 "_id": 57,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446183058"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6010,7 +6010,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STROH CANADA - PABST BLUE RIBBON CAN",
                 "_id": 74,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910403110"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6028,7 +6028,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RED STRIPE",
                 "_id": 77,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "83820567939"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6046,7 +6046,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - I-5 AMARLLO ALE",
                 "_id": 5998,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002119"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6064,7 +6064,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - HOPHEAD IPA",
                 "_id": 6006,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202353"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6082,7 +6082,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DESCHUTES - BLACK BUTTE PORTER",
                 "_id": 6012,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "763176220220"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6100,7 +6100,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - LOST SOULS CHOCOLATE PUMPKIN PORTER",
                 "_id": 6017,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990137849"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6118,7 +6118,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - UGLY SWEATER MILK STOUT",
                 "_id": 6044,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990137856"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6136,7 +6136,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OLD YALE - PALE ALE CAN",
                 "_id": 6046,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "899759000016"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6154,7 +6154,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KONA BREWING - CASTAWAY IPA",
                 "_id": 6049,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "796030114939"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6172,7 +6172,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WORTHINGTON'S - WHITE SHIELD",
                 "_id": 6053,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5010038445693"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6190,7 +6190,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RUSSELL - HOP THERAPY SESSION ALE CAN",
                 "_id": 6073,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "696540440613"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6208,7 +6208,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RUSSELL BREWING - WINTER MINGLER",
                 "_id": 6074,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "696540490625"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6226,7 +6226,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - BIG SKY UNCOMMON LAGER",
                 "_id": 6136,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990183723"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6244,7 +6244,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NEW BELGIUM - FOLLY PACK CAN",
                 "_id": 6143,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "754527004705"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6262,7 +6262,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - COORS LIGHT",
                 "_id": 3597,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327182554"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6280,7 +6280,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIN WHISTLE - RATTLESNAKE ESB ALE",
                 "_id": 2995,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624117815854"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6298,7 +6298,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOON UNDER WATER - POTT'S PILS UNFILTERED",
                 "_id": 3253,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "833740000005"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6316,7 +6316,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - SCANDAL LAGER ORGANIC",
                 "_id": 3256,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558001504"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6334,7 +6334,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STIEGL - GRAPEFRUIT RADLER TALL CAN",
                 "_id": 3005,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "9003403193080"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6352,7 +6352,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STANLEY PARK - NOBLE PILSNER TALL CAN",
                 "_id": 3008,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100363"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6370,7 +6370,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - BLITZEN",
                 "_id": 3013,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000409"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6388,7 +6388,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RED TRUCK '46 PORTER",
                 "_id": 3024,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "858054001128"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6406,7 +6406,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BOWEN ISLAND - SAMPLER PACK CAN",
                 "_id": 3047,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990183792"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6424,7 +6424,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GOOSE ISLAND MATILDA BELGIAN STYLE PALE ALE",
                 "_id": 3068,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "736920112072"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6442,7 +6442,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "INNIS & GUNN SPICED RUM FINISH",
                 "_id": 3177,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5060190560581"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6460,7 +6460,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - HONEY BROWN LAGER",
                 "_id": 3094,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910230150"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6478,7 +6478,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - PILSNER",
                 "_id": 3106,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000225"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6496,7 +6496,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - LAGER CAN",
                 "_id": 3108,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000143"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6514,7 +6514,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALEXANDER KEITH'S - INDIA PALE ALE CAN",
                 "_id": 3112,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067121340"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6532,7 +6532,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MILLER GENUINE DRAFT",
                 "_id": 3116,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "34100172435"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6550,7 +6550,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DESCHUTES - SEASONAL JUBELALE",
                 "_id": 3121,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "763176800064"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6568,7 +6568,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - HARVEST MOON ORGANIC HEMP ALE CAN",
                 "_id": 3137,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990109495"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6586,7 +6586,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ACHOUFFE - HOUBLON CHOUFFE DOBBELEN IPA TRIPEL",
                 "_id": 3139,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5410769300085"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6604,7 +6604,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MARTENS PILSENER TALL CAN",
                 "_id": 3144,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5411616000691"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6622,7 +6622,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - POWDER MOUNTAIN LAGER",
                 "_id": 3149,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990098591"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6640,7 +6640,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DRIFTWOOD - WHITE BARK WITBIER",
                 "_id": 3171,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628201000034"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6658,7 +6658,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUD LIGHT CAN",
                 "_id": 3194,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067567407"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6676,7 +6676,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOYNE - DOWN EASY PALE ALE",
                 "_id": 3200,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990123767"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6694,7 +6694,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HACKER PSCHORR MUNICH GOLD TALL CAN",
                 "_id": 3202,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4004866222329"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6712,7 +6712,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BRAVA - CAN",
                 "_id": 3208,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774837585435"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6730,7 +6730,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SAPPORO - TALL CAN",
                 "_id": 3212,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910605002"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6748,7 +6748,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - KITSILANO MAPLE CREAM ALE",
                 "_id": 3230,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446179013"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6766,7 +6766,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "R & B - HOPPELGANGER IPA",
                 "_id": 3275,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990024149"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6784,7 +6784,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VAN STEENBERGE - GULDEN DRAAK",
                 "_id": 3300,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5411663002716"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6802,7 +6802,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SHOCK TOP BELGIAN WHITE ALE",
                 "_id": 3342,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067166020"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6820,7 +6820,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SAINT SYLVESTRE - 3 MONTS",
                 "_id": 3367,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "852459001011"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6838,7 +6838,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STELLA ARTOIS TALL CAN",
                 "_id": 3381,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "786150000236"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6856,7 +6856,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CASTLE LAGER TALL CAN",
                 "_id": 3386,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "6003326000192"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6874,7 +6874,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - WINTER MINGLER CAN",
                 "_id": 3394,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": ""
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6892,7 +6892,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - THE BOLD BELGIAN PALE ALE",
                 "_id": 3399,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990152644"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6910,7 +6910,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - SELECTIONS CAN",
                 "_id": 3418,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910280155"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6928,7 +6928,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MORLAND OLD SPECKLED HEN TALL CAN",
                 "_id": 3425,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5010549305745"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6946,7 +6946,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CORONA EXTRA",
                 "_id": 3434,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "7501064196287"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6964,7 +6964,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE CAN",
                 "_id": 3440,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067201202"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -6982,7 +6982,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DESCHUTES - MIRROR POND PALE ALE",
                 "_id": 3441,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "763176300069"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7000,7 +7000,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STROH CANADA - OLD MILWAUKEE CAN",
                 "_id": 3454,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910401604"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7018,7 +7018,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STELLA ARTOIS",
                 "_id": 3464,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "786150000168"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7036,7 +7036,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PRINCE EDWARD ISLAND BREWING - BEACH CHAIR LAGER CAN",
                 "_id": 3480,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "878364000062"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7054,7 +7054,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALHAMBRA RESERVA 1925",
                 "_id": 3482,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "84195326"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7072,7 +7072,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ESTRELLA DAMM LAGER TALL CAN",
                 "_id": 3487,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8410793286123"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7090,7 +7090,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BUDWEISER & MOTTS CLAMATO - CHELADA CAN",
                 "_id": 3488,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "18200002342"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7108,7 +7108,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "AFFLIGEM BLOND",
                 "_id": 3497,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5411098100049"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7126,7 +7126,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIN WHISTLE - BLACK WIDOW MILD ALE",
                 "_id": 3498,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624117815939"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7144,7 +7144,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "UNIBROUE - LA FIN DU MONDE",
                 "_id": 3500,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "772285051113"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7162,7 +7162,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - TOUQUES OF HAZZARD IMPERIAL WHITE IPA",
                 "_id": 3752,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990179726"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7180,7 +7180,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIN WHISTLE - PENTICTON HARVEST HONEY PALE ALE",
                 "_id": 3754,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990112600"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7198,7 +7198,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STANLEY PARK - LORD STANLEY'S SUMMER PICK",
                 "_id": 3759,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100943"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7216,7 +7216,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HISTORIC ALES FROM SCOTLAND GIFT PACK",
                 "_id": 3761,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5034743040011"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7234,7 +7234,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - SCHADENFREUDE PUMPKIN OKTOBERFEST",
                 "_id": 3773,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990137825"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7252,7 +7252,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - THE CHIEF CHIPOTLE HARVEST ALE",
                 "_id": 3522,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990088028"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7270,7 +7270,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HACKER PSCHORR WEISSE",
                 "_id": 3565,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4004866222237"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7288,7 +7288,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KOZEL PREMIUM TALL CAN",
                 "_id": 3585,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8594404001449"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7306,7 +7306,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COORS BANQUET CAN",
                 "_id": 3590,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "71990000479"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7324,7 +7324,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GUINNESS BLACK LAGER",
                 "_id": 3592,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5000213017104"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7342,7 +7342,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BLUE",
                 "_id": 3594,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067351020"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7360,7 +7360,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN",
                 "_id": 3596,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327072565"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7378,7 +7378,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - CREAM ALE",
                 "_id": 3599,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910099948"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7396,7 +7396,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - CREAM ALE",
                 "_id": 3600,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910100002"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7414,7 +7414,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - COORS LIGHT",
                 "_id": 3602,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327182561"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7432,7 +7432,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CANNERY - BLACKBERRY PORTER",
                 "_id": 3605,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990029779"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7450,7 +7450,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MCAUSLAN - ST AMBROISE OATMEAL STOUT",
                 "_id": 3606,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "55480000057"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7468,7 +7468,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN CAN",
                 "_id": 3607,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327073272"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7486,7 +7486,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE CAN",
                 "_id": 3611,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067374371"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7504,7 +7504,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SPINNAKERS - INDIA PALE ALE",
                 "_id": 3613,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "690039010325"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "DE-ALCOHOLIZED BEER",
@@ -7522,7 +7522,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WARSTEINER PREMIUM FRESH",
                 "_id": 3616,
                 "PRODUCT_MINOR_CLASS_NAME": "DE-ALCOHOLIZED BEER",
-                "PRODUCT_BASE_UPC_NO": "4000856105986"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7540,7 +7540,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VAN STEENBERGE - PIRAAT 9",
                 "_id": 3619,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "54119000"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7558,7 +7558,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - FIREWALKER SMOKEY PORTER",
                 "_id": 3628,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990188919"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7576,7 +7576,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MCEWAN'S - SCOTCH ALE",
                 "_id": 3631,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5000264002876"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7594,7 +7594,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "INNIS & GUNN TOASTED OAK IPA",
                 "_id": 3667,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5060190561137"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7612,7 +7612,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DESCHUTES - CINDERCONE RED ALE",
                 "_id": 3677,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "763176520221"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7630,7 +7630,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIN WHISTLE - OSPREY PEAR WHITE IPA",
                 "_id": 3678,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990197843"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7648,7 +7648,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - BEACHCOMBER SUMMER ALE",
                 "_id": 3704,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001706"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7666,7 +7666,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - POD PACK",
                 "_id": 3705,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001317"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7684,7 +7684,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - BLACK BETTY BLACKBERRY SAISON CAN",
                 "_id": 3707,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001973"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7702,7 +7702,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - KICKSTAND HONEY KOLSCH",
                 "_id": 3712,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990190035"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7720,7 +7720,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - KELOWNA PILSNER TALL CAN",
                 "_id": 3722,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990091325"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7738,7 +7738,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BC CRAFT BREWERS GUILD - BC CRAFT PACK",
                 "_id": 3723,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202483"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7756,7 +7756,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - WINTER SEASONAL AMBER ALE",
                 "_id": 3724,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990206521"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7774,7 +7774,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - GROOVE SESSION ALE CAN",
                 "_id": 3727,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202711"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7792,7 +7792,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - THE SUMMER MIXER",
                 "_id": 3740,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990152675"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7810,7 +7810,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - SUMMER SAMPLER CAN",
                 "_id": 3741,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990116295"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7828,7 +7828,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "INNIS & GUNN CANADIAN CHERRYWOOD FINISH",
                 "_id": 3742,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5060190561762"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7846,7 +7846,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MT BEGBIE - ATTILA THE HONEY",
                 "_id": 3743,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "629216869289"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7864,7 +7864,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "INNIS & GUNN - SMOKIN GUNN",
                 "_id": 3744,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5060190561441"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7882,7 +7882,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - SABOTAGE INDIA SESSION ALE",
                 "_id": 4510,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001959"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7900,7 +7900,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STONE BREWING ARROGANT BASTARD ALE",
                 "_id": 4515,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "636251780004"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7918,7 +7918,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STONE BREWING - INDIA PALE ALE",
                 "_id": 4519,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "636251776120"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7936,7 +7936,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BC CRAFT BREWERS GUILD MAIDEN VOYAGE EXTRA PALE ALE",
                 "_id": 3775,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002317"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7954,7 +7954,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PROHIBITION - HARVEST PUMPKIN SPICED ALE",
                 "_id": 3779,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "850635001220"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7972,7 +7972,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - MASH UP MIX PACK",
                 "_id": 3780,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000836"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -7990,7 +7990,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BROOKLYN POST ROAD PUMPKIN ALE",
                 "_id": 3781,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "94254000152"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8008,7 +8008,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - NUTTY UNCLE PEANUT BUTTER STOUT",
                 "_id": 3813,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990206606"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8026,7 +8026,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RUSSELL - WHITE RABBIT HOPPED HEFEWEIZEN",
                 "_id": 3817,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "696540430188"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8044,7 +8044,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER JEFF O'NEIL GINGERBREAD STOUT",
                 "_id": 3818,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002478"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8062,7 +8062,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RUSSELL - NAUGHTY & SPICED PORTER",
                 "_id": 3819,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "696540340180"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8080,7 +8080,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - HERMANNATOR ICE BOCK",
                 "_id": 3821,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001256"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8098,7 +8098,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - HOT SAW INDIA BROWN ALE",
                 "_id": 3833,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990220268"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8116,7 +8116,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SIERRA NEVADA  PALE ALE",
                 "_id": 3906,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "83783375213"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8134,7 +8134,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MORT SUBITE FRAMBOISE",
                 "_id": 3921,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5411656020611"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8152,7 +8152,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WOLF - RED BRICK INDIA PALE ALE",
                 "_id": 3931,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990034568"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8170,7 +8170,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KRONENBOURG 1664 BLANC",
                 "_id": 3935,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "851621000050"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8188,7 +8188,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - SHIPWRECK IPA",
                 "_id": 3937,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000204"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8206,7 +8206,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEINLAGER PURE",
                 "_id": 3942,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "72509197604"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8224,7 +8224,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MILLER CHILL CAN",
                 "_id": 3967,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327007789"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8242,7 +8242,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - HOP CIRCLE IPA",
                 "_id": 3982,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990036296"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8260,7 +8260,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "R & B - SUN GOD WHEAT ALE",
                 "_id": 3985,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990082330"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8278,7 +8278,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - ORIGINAL DRAUGHT CAN",
                 "_id": 3987,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910201150"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8296,7 +8296,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - GYPSY TEARS RUBY ALE",
                 "_id": 4015,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990130369"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8314,7 +8314,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOP CITY - BARKING SQUIRREL LAGER",
                 "_id": 4026,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "776029702675"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8332,7 +8332,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CAN PROMO 6 PK",
                 "_id": 4034,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067201196"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8350,7 +8350,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WYCHWOOD - FOREST FRUITS MIXED BERRY",
                 "_id": 4036,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011348011813"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8368,7 +8368,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OLD YALE - SASQUATCH STOUT",
                 "_id": 4043,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990038528"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8386,7 +8386,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BARKERVILLE - 18 KARAT ALE",
                 "_id": 4087,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "816052000017"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8404,7 +8404,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KONIG PILSNER TALL CAN",
                 "_id": 4097,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4100770005154"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8422,7 +8422,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - CARIBOO GENUINE DRAFT CAN",
                 "_id": 4108,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558001139"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8440,7 +8440,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MUSKOKA - DOUBLE CHOCOLATE CRANBERRY STOUT WHITE BEARD",
                 "_id": 4109,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628669050206"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8458,7 +8458,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BITBURGER PREMIUM TALL CAN",
                 "_id": 4126,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "20507002505"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8476,7 +8476,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ERDINGER - WEISSBIER",
                 "_id": 4129,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4002103000013"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8494,7 +8494,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUD LIGHT CAN CANUCKS 15 PK",
                 "_id": 4131,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067201035"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8512,7 +8512,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - INDIA PALE ALE",
                 "_id": 4144,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910304165"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8530,7 +8530,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KRUSOVICE IMPERIAL",
                 "_id": 4146,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8594009922422"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8548,7 +8548,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - AMNESIAC DOUBLE IPA",
                 "_id": 5456,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990036647"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8566,7 +8566,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RICKARDS WHITE",
                 "_id": 4172,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327004207"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8584,7 +8584,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COORS BANQUET",
                 "_id": 4176,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "71990000073"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8602,7 +8602,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NINKASI - SEASONAL PACK",
                 "_id": 4185,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "892376002142"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8620,7 +8620,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STIEGL - TALL CAN",
                 "_id": 4189,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "90034558"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8638,7 +8638,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CROWN SLIM CAN",
                 "_id": 4192,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067338472"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8656,7 +8656,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALEXANDER KEITH'S - RED AMBER ALE",
                 "_id": 4193,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067133022"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8674,7 +8674,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HELL'S GATE - LAGER CAN",
                 "_id": 4196,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100073"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8692,7 +8692,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BODDINGTON'S PUB ALE DRAUGHT CAN",
                 "_id": 4206,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "762274813938"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8710,7 +8710,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MILLER GENUINE DRAFT",
                 "_id": 4207,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "34100175092"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8728,7 +8728,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - CARIBOO GENUINE DRAFT CAN",
                 "_id": 4256,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558001122"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8746,7 +8746,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KEYSTONE - LAGER CAN",
                 "_id": 4260,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327005976"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8764,7 +8764,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DRIFTWOOD BREWING - BLACKSTONE PORTER",
                 "_id": 4263,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628201000072"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8782,7 +8782,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - THE CLASSIC NUT BROWN ALE",
                 "_id": 4264,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990152637"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8800,7 +8800,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SINGHA LAGER",
                 "_id": 4270,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "84543800075"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8818,7 +8818,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - NELSON AFTER DARK ALE ORGANIC",
                 "_id": 4271,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626117100039"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8836,7 +8836,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - OLD STYLE PILSNER CAN",
                 "_id": 4272,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327593244"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8854,7 +8854,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - HONEY BROWN LAGER",
                 "_id": 4273,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910230129"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8872,7 +8872,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "UNIBROUE - TROIS PISTOLES",
                 "_id": 4274,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "772285101115"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8890,7 +8890,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MT BEGBIE - TALL TIMBER ALE",
                 "_id": 4276,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "629216889119"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8908,7 +8908,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - COORS LIGHT",
                 "_id": 4280,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327182578"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8926,7 +8926,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HEINEKEN LAGER CAN",
                 "_id": 4281,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "72890001177"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8944,7 +8944,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MUSKOKA - DETOUR SESSION IPA",
                 "_id": 4282,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628669020209"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8962,7 +8962,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - CYPRESS HONEY LAGER CAN",
                 "_id": 4285,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446201028"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8980,7 +8980,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BUD LIGHT LIME",
                 "_id": 4287,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "18200149917"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -8998,7 +8998,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GULF ISLAND - SALTSPRING PORTER",
                 "_id": 4293,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990014607"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9016,7 +9016,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CZECHVAR",
                 "_id": 4306,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "815833006057"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9034,7 +9034,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE CAN",
                 "_id": 4323,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067374456"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9052,7 +9052,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MENDOCINO BREWING - OATMEAL STOUT",
                 "_id": 4325,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "92212121239"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9070,7 +9070,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DRIFTWOOD - CROOKED COAST ALTBIER",
                 "_id": 4331,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628201000140"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9088,7 +9088,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - PADDYWHACK IPA CAN ORGANIC",
                 "_id": 4338,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990154273"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9106,7 +9106,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - BLACK HOPS CASCADIAN DARK LAGER",
                 "_id": 4348,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990161561"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9124,7 +9124,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TUBORG TALL CAN",
                 "_id": 4350,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5740700997365"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9142,7 +9142,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BRIDGE - NORTH SHORE PALE",
                 "_id": 4360,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "817030452934"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9160,7 +9160,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALEXANDER KEITH'S - INDIA PALE ALE",
                 "_id": 4363,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067121029"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9178,7 +9178,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - HERMANN'S DARK LAGER",
                 "_id": 4364,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001041"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9196,7 +9196,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - OLD STYLE PILSNER CAN",
                 "_id": 4365,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327593237"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9214,7 +9214,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE CAN",
                 "_id": 4366,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067374340"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9232,7 +9232,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN CAN",
                 "_id": 4367,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327073241"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9250,7 +9250,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CAN",
                 "_id": 4374,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067335372"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9268,7 +9268,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - OLD STYLE PILSNER CAN",
                 "_id": 4375,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327593268"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9286,7 +9286,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - PALE ALE",
                 "_id": 4376,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910001507"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9304,7 +9304,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SHOCK TOP BELGIAN WHITE ALE CAN",
                 "_id": 4402,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067166242"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9322,7 +9322,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MENDOCINO - EYE OF THE HAWK SELECT ALE",
                 "_id": 4422,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "92212113050"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9340,7 +9340,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - SUPER FEARLESS IMPERIAL IPA",
                 "_id": 4426,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990171119"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9358,7 +9358,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RICKARDS DERTASTERPACKEN",
                 "_id": 4442,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327009394"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9376,7 +9376,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - JASMINE IPA",
                 "_id": 4462,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000515"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9394,7 +9394,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DEAD FROG - BIG STUMP SPRUCE GOLDEN ALE",
                 "_id": 4477,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990171232"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9412,7 +9412,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - VARIETY PACK",
                 "_id": 4478,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000082"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9430,7 +9430,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - THIRSTY BEAVER AMBER ALE TALL CAN",
                 "_id": 4485,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990091332"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9448,7 +9448,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - GROOVE SESSION ALE TALL CAN",
                 "_id": 4487,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202902"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9466,7 +9466,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FULLERS EXTRA SPECIAL BITTER",
                 "_id": 4489,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011885003661"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9484,7 +9484,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FERNIE - CRAFT COLLECTION CAN",
                 "_id": 4493,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990119470"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9502,7 +9502,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - SUMMER VARIETY PACK",
                 "_id": 4495,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000167"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9520,7 +9520,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - CROOKED TOOTH PUMPKIN ALE",
                 "_id": 4496,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990070894"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9538,7 +9538,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "INNIS & GUNN MALT WHISKY TRAIL",
                 "_id": 4497,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5060190561694"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9556,7 +9556,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VEDETT EXTRA WIT",
                 "_id": 4539,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5411681400310"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9574,7 +9574,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BELHAVEN BLACK SCOTTISH STOUT TALL CAN",
                 "_id": 4540,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5010549304724"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9592,7 +9592,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GOOSE ISLAND SOFIE BELGIAN STYLE FARMHOUSE ALE",
                 "_id": 4605,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "736920113338"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9610,7 +9610,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NEW BELGIUM - RANGER IPA",
                 "_id": 4608,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "754527000660"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9628,7 +9628,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NEW BELGIUM - SEASONAL TOUR DE FALL PALE ALE",
                 "_id": 4609,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "754527001117"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9646,7 +9646,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SIERRA NEVADA TORPEDO EXTRA IPA",
                 "_id": 4643,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "83783675054"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9664,7 +9664,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN 67",
                 "_id": 4645,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327005709"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9682,7 +9682,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - BEACON IPA CAN",
                 "_id": 4654,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000129"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9700,7 +9700,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WARSTEINER PREMIUM VERUM",
                 "_id": 4655,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4000856505212"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9718,7 +9718,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MUSKOKA - MAD TOM IPA",
                 "_id": 4684,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628669050305"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9736,7 +9736,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BALTIKA 7",
                 "_id": 4696,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4600682511014"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9754,7 +9754,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOOSEHEAD LAGER CAN",
                 "_id": 4709,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "776029700923"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9772,7 +9772,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - ORIGINAL DRAUGHT",
                 "_id": 4717,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910200153"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9790,7 +9790,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MILLER GENUINE DRAFT CAN",
                 "_id": 4726,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "34100173449"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9808,7 +9808,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIEFMANS FRUITESSE",
                 "_id": 4745,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5411686700361"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9826,7 +9826,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RICKARDS TASTERS PACK",
                 "_id": 4750,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327006980"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9844,7 +9844,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DAB ORIGINAL TALL CAN",
                 "_id": 4768,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "4001982097763"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9862,7 +9862,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PYRAMID - APRICOT ALE",
                 "_id": 4773,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "808755004676"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9880,7 +9880,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GUINNESS PUB DRAUGHT CAN",
                 "_id": 4793,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "83820123609"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9898,7 +9898,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DESCHUTES - CHAINBREAKER WHITE IPA",
                 "_id": 4796,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "763176120018"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9916,7 +9916,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CANNERY - ANARCHIST AMBER ALE CAN",
                 "_id": 4812,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990052975"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9934,7 +9934,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HEINEKEN LAGER TALL CAN",
                 "_id": 4824,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8712000900045"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9952,7 +9952,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - CARIBOO BLONDE CAN",
                 "_id": 4848,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558001306"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9970,7 +9970,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "YUKON - YUKON RED",
                 "_id": 5787,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "627619211124"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -9988,7 +9988,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ELYSIAN - MANIC SERIES SPACE DUST IPA",
                 "_id": 4858,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "817904001602"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10006,7 +10006,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - BLUE BUCK ALE CAN",
                 "_id": 4869,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990109129"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10024,7 +10024,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CANNERY - CANNERY COLLECTION CAN",
                 "_id": 4875,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990104711"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10042,7 +10042,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FAXE PREMIUM LAGER TALL CAN",
                 "_id": 4887,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5741000107867"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10060,7 +10060,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOLSTEN MAIBOCK TALL CAN",
                 "_id": 4888,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "42221289"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10078,7 +10078,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - SWING SPAN AMBER ALE",
                 "_id": 4889,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446201110"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10096,7 +10096,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - CHOCOLATE STOUT",
                 "_id": 4896,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446200182"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10114,7 +10114,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MICKEY'S",
                 "_id": 4912,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "34100774349"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10132,7 +10132,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SAN MIGUEL",
                 "_id": 4925,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "638609117647"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10150,7 +10150,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - PILSNER TALL CAN",
                 "_id": 4932,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000508"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10168,7 +10168,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HEINEKEN LAGER",
                 "_id": 4953,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8712000025649"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10186,7 +10186,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER SLEEK CAN",
                 "_id": 4954,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067335181"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10204,7 +10204,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HEINEKEN LAGER",
                 "_id": 4959,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "72890000859"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10222,7 +10222,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "UNIBROUE - BLANCHE DE CHAMBLY",
                 "_id": 4988,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "772285021116"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10240,7 +10240,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOYNE - HOYNER PILSNER",
                 "_id": 5501,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990123743"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10258,7 +10258,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOWE SOUND - DEVIL'S ELBOW INDIA PALE ALE",
                 "_id": 5007,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "855287001086"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10276,7 +10276,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STELLA ARTOIS CAN",
                 "_id": 5012,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "786150000410"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10294,7 +10294,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KRONENBOURG 1664",
                 "_id": 5013,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "3080210002961"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10312,7 +10312,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "UNIBROUE - COLLECTION PACK",
                 "_id": 5018,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "772285911905"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10330,7 +10330,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - 1516 BAVARIAN LAGER",
                 "_id": 5020,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910001606"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10348,7 +10348,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BLACK LOON - BUSHMAN LAGER CAN",
                 "_id": 5046,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446200571"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10366,7 +10366,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE",
                 "_id": 5059,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067200731"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10384,7 +10384,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - LUCKY LAGER CAN",
                 "_id": 5063,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067355455"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10402,7 +10402,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "UNIBROUE - MAUDITE",
                 "_id": 5064,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "772285031115"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10420,7 +10420,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HEINEKEN LAGER CAN",
                 "_id": 5067,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "72890000019"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10438,7 +10438,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STELLA ARTOIS LEGERE",
                 "_id": 5068,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "786150000618"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10456,7 +10456,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - VOW OF SILENCE BELGIAN STRONG",
                 "_id": 5077,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990137894"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10474,7 +10474,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TOWNSITE - SAID THE ALE",
                 "_id": 5082,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990155416"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10492,7 +10492,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIMOTHY TAYLOR'S LANDLORD PALE ALE",
                 "_id": 5083,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5031283000017"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10510,7 +10510,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CANNERY - NARAMATA NUT BROWN ALE CAN",
                 "_id": 5094,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990064138"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10528,7 +10528,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HARP LAGER TALL CAN",
                 "_id": 5115,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5000213015858"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10546,7 +10546,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DRIFTWOOD - FAT TUG IPA",
                 "_id": 5128,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628201000126"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10564,7 +10564,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BIG ROCK - TRADITIONAL ALE",
                 "_id": 5130,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "64294614039"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10582,7 +10582,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER",
                 "_id": 5136,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": ""
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10600,7 +10600,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PROHIBITION - BOOTLEGGER ALE",
                 "_id": 5139,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "850635001152"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10618,7 +10618,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - LIONS WINTER ALE CAN",
                 "_id": 5145,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446200342"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10636,7 +10636,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MT BEGBIE - NASTY HABIT IPA",
                 "_id": 5148,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "629216817716"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10654,7 +10654,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALEXANDER KEITH'S - INDIA PALE ALE CAN",
                 "_id": 5154,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067200663"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10672,7 +10672,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - COORS LIGHT CAN",
                 "_id": 5156,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327183230"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10690,7 +10690,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUD LIGHT",
                 "_id": 5157,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067567025"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10708,7 +10708,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - CLEAR",
                 "_id": 5158,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910300129"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10726,7 +10726,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - GENUINE LAGER CAN",
                 "_id": 5159,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067310379"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10744,7 +10744,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "R & B - RAVEN CREAM ALE",
                 "_id": 5160,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990138013"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10762,7 +10762,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - COORS LIGHT CAN",
                 "_id": 5788,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327005518"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10780,7 +10780,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GRANVILLE ISLAND - ISLAND LAGER CAN",
                 "_id": 5164,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779446105128"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10798,7 +10798,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - OLD STYLE PILSNER CAN",
                 "_id": 5166,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327593275"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10816,7 +10816,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - ROLLIN' GOLDEN BELGIUM ALE",
                 "_id": 5194,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000867"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10834,7 +10834,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - FRAMBOZEN",
                 "_id": 5197,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000102"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10852,7 +10852,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OKANAGAN SPRING - SUMMER WEIZEN",
                 "_id": 5202,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910005062"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10870,7 +10870,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALEXANDER KEITH'S - HOP SERIES GALAXY HOP ALE",
                 "_id": 5203,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067769030"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10888,7 +10888,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - FORAGER GLUTEN FREE",
                 "_id": 5204,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990183693"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10906,7 +10906,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - RHUBIE RHUBARB ALE",
                 "_id": 5221,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000402"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10924,7 +10924,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DELIRIUM NOEL PACK",
                 "_id": 5240,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5412186000661"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10942,7 +10942,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ALEXANDER KEITH'S - HOP SERIES MIXER (SAPHIR)",
                 "_id": 5250,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067201547"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10960,7 +10960,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - VERTICAL WINTER ALE CAN",
                 "_id": 5259,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202995"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10978,7 +10978,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - CUTTHROAT PALE ALE",
                 "_id": 5260,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202346"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -10996,7 +10996,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SHAFTEBURY - FOUR TWENTY BRILLIANT LAGER TALL CAN",
                 "_id": 5261,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "569103200309"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11014,7 +11014,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - THIRSTY BEAVER AMBER ALE",
                 "_id": 5264,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202339"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11032,7 +11032,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - SIREN RED ALE CAN",
                 "_id": 5265,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000297"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11050,7 +11050,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - STORM WATCHER WINTER LAGER",
                 "_id": 5268,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001751"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11068,7 +11068,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - WINTER POD PACK",
                 "_id": 5269,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001461"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11086,7 +11086,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIN WHISTLE - STRAWBERRY BLONDE",
                 "_id": 5274,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990122784"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11104,7 +11104,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PARALLEL 49 - N2 SERIES MILK STOUT",
                 "_id": 5279,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990179733"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11122,7 +11122,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - RED ALE",
                 "_id": 5284,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000935"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11140,7 +11140,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - MILE HIGH MOUNTAIN ALE",
                 "_id": 5297,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097002086"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11158,7 +11158,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STANLEY PARK - ICE BREAKER WINTER ALE",
                 "_id": 5298,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100387"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11176,7 +11176,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VANCOUVER ISLAND - THIRTY YEARS IMPERIAL RED ALE",
                 "_id": 5299,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "620097001997"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11194,7 +11194,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TREE - JUMPIN JACK PUMPKIN ALE",
                 "_id": 5304,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "624524202506"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11212,7 +11212,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - PUMPKIN ALE ORGANIC",
                 "_id": 5305,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990170747"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11230,7 +11230,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MCAUSLAN - ST AMBROISE VARIETY PACK",
                 "_id": 5308,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "55480040015"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11248,7 +11248,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BIG ROCK - ABANDONED ABBEY",
                 "_id": 5313,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "64294629095"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11266,7 +11266,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "OLD YALE - KNOTTY BLONDE ALE CAN",
                 "_id": 5315,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628451202035"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11284,7 +11284,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - THE HOBBIT BOLG BELGIAN STYLE TRIPEL",
                 "_id": 5321,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628113002584"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11302,7 +11302,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RUSSELL - BLOOD ALLEY EXTRA SPECIAL BITTER",
                 "_id": 5334,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "696540190648"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11320,7 +11320,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RUSSELL - EASTERN PROMISES CZECH PILSNER",
                 "_id": 5336,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": ""
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11338,7 +11338,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BROOKLYN SORACHI ACE ALE",
                 "_id": 5349,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5707643400208"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11356,7 +11356,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - LONGBOAT CHOCOLATE PORTER",
                 "_id": 5455,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990036630"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11374,7 +11374,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN CAN",
                 "_id": 5396,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327073203"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11392,7 +11392,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COOPERS - SPARKLING ALE",
                 "_id": 5400,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "9310441001001"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11410,7 +11410,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GROLSCH PREMIUM LAGER",
                 "_id": 5405,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8716700015986"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11428,7 +11428,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KONIG LUDWIG WEISSBIER",
                 "_id": 5407,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990129295"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11446,7 +11446,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - BUDWEISER CAN CANUCKS 15 PK",
                 "_id": 5424,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067200700"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11464,7 +11464,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CORONA EXTRA CAN",
                 "_id": 5429,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "7501064196249"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11482,7 +11482,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STROH CANADA - PABST BLUE RIBBON CAN",
                 "_id": 5459,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910403158"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11500,7 +11500,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "KINGFISHER PREMIUM LAGER",
                 "_id": 5460,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "92212121314"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11518,7 +11518,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DUVEL",
                 "_id": 5483,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5411681014005"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11536,7 +11536,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LIGHTHOUSE - TASMAN ALE",
                 "_id": 5533,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "895778000242"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11554,7 +11554,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ELYSIAN - LOSER PALE ALE",
                 "_id": 5575,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "817904000704"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11572,7 +11572,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - AFTER DARK ALE CAN ORGANIC",
                 "_id": 5866,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990154280"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11590,7 +11590,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HELL'S GATE - PALE ALE CAN",
                 "_id": 5584,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "779305100028"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11608,7 +11608,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SCHNEIDER WEISSE ORIGINAL",
                 "_id": 5608,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "737398016206"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11626,7 +11626,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SAMUEL ADAMS UTOPIAS",
                 "_id": 5614,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "87692762355"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11644,7 +11644,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BIG ROCK - ALBERTA GENUINE DRAFT CAN",
                 "_id": 5655,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "64294821116"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11662,7 +11662,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - SAMPLER PACK",
                 "_id": 5663,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990077497"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11680,7 +11680,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CARLSBERG",
                 "_id": 5666,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5740700997853"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11698,7 +11698,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE CAN",
                 "_id": 5670,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067201271"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11716,7 +11716,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BOWEN ISLAND - DEEP 6 LAGER",
                 "_id": 5675,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990051237"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11734,7 +11734,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NEWCASTLE BROWN ALE",
                 "_id": 5676,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "88345100753"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11752,7 +11752,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - IMPERIAL RED ALE",
                 "_id": 5693,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000751"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11770,7 +11770,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "DRIFTWOOD - FARMHAND SAISON",
                 "_id": 5697,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "628201000027"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11788,7 +11788,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CZECHVAR",
                 "_id": 5734,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "815833002400"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11806,7 +11806,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STROH CANADA - OLD MILWAUKEE CAN",
                 "_id": 5743,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910401659"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11824,7 +11824,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "INNIS & GUNN OLOROSO CASK",
                 "_id": 5747,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5060190560789"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11842,7 +11842,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BECKS",
                 "_id": 5748,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "9311890245787"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11860,7 +11860,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LABATT - LUCKY LAGER CAN",
                 "_id": 5786,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067355370"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11878,7 +11878,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MT BEGBIE - POWERHOUSE PALE ALE",
                 "_id": 5791,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "629216905864"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11896,7 +11896,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOWE SOUND - RAIL ALE NUT BROWN",
                 "_id": 5794,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "855287001048"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11914,7 +11914,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN COLD SHOTS CAN",
                 "_id": 5796,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327003330"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11932,7 +11932,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "HOFBRAUHAUS MAIBOCK",
                 "_id": 5815,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "675747011161"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11950,7 +11950,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SLEEMAN - SELECTIONS",
                 "_id": 5845,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910280124"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11968,7 +11968,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NORTH COAST - OLD RASPUTIN RUSSIAN IMPERIAL STOUT",
                 "_id": 5847,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "727344000229"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -11986,7 +11986,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "STEAMWORKS - SAISON",
                 "_id": 5853,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "185902000485"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12004,7 +12004,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "UNIBROUE - EPHEMERE CRANBERRY",
                 "_id": 5864,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56910807505"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12022,7 +12022,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MT BEGBIE - HIGH COUNTRY KOLSCH CAN",
                 "_id": 5879,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "629216848581"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12040,7 +12040,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "LAKEFRONT - NEW GRIST GLUTEN FREE",
                 "_id": 5887,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "746546000684"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12058,7 +12058,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - OLD STYLE PILSNER",
                 "_id": 5889,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327592551"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12076,7 +12076,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - CANADIAN CAN",
                 "_id": 5891,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327073234"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12094,7 +12094,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - TRADITIONAL LAGER CAN",
                 "_id": 5892,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558000019"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12112,7 +12112,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - COORS LIGHT CAN",
                 "_id": 5893,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327183247"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12130,7 +12130,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COLUMBIA - KOKANEE LIGHT CAN",
                 "_id": 5895,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "62067504341"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12148,7 +12148,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "MOLSON - BLACK ICE CAN",
                 "_id": 5898,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327963238"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12166,7 +12166,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "RICKARDS RED CAN",
                 "_id": 5903,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "56327673236"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12184,7 +12184,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "PACIFIC WESTERN - CANTERBURY DARK MILD CAN",
                 "_id": 5904,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "774558001450"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12202,7 +12202,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "COAL HARBOUR - 311 HELLES LAGER CAN",
                 "_id": 5905,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990141372"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12220,7 +12220,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WHISTLER - CHEAKAMUS CHAI MAPLE ALE",
                 "_id": 5950,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990183686"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12238,7 +12238,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "GROLSCH PREMIUM LAGER",
                 "_id": 5967,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "8716700007011"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12256,7 +12256,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BANKS PARK - SUNBEAM ZESTY BLONDE",
                 "_id": 5973,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011348013138"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12274,7 +12274,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CENTRAL CITY - RED RACER BELGIAN WHEAT ALE",
                 "_id": 5994,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "891810001994"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12292,7 +12292,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "NELSON - GINGER BEER ORGANIC CAN",
                 "_id": 2982,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990190653"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12310,7 +12310,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WYCHWOOD - BEERS OF CHARACTER COLLECTION",
                 "_id": 2940,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5011348015415"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12328,7 +12328,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "VAN DIEST - FRULI STRAWBERRY BEER",
                 "_id": 6004,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5412186001170"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12346,7 +12346,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "TIGER BEER",
                 "_id": 1849,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "86428260332"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12364,7 +12364,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "FRULI - STRAWBERRY BEER",
                 "_id": 649,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5412186002474"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12382,7 +12382,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "INNIS & GUNN ORIGINAL OAKED AGED BEER",
                 "_id": 5415,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5010327658544"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12400,7 +12400,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "ANCHOR STEAM BEER",
                 "_id": 4990,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "7278300108"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12418,7 +12418,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "BOWEN ISLAND - CRAFT BEER SAMPLER PACK",
                 "_id": 2188,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990170358"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12436,7 +12436,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "IRISH BEER DISCOVERY PACK TALL CAN",
                 "_id": 1258,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5000213016251"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12454,7 +12454,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "WYCHWOOD - HOBGOBLIN RUBY BEER",
                 "_id": 4147,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5031323001103"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12472,7 +12472,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "SOL BEER",
                 "_id": 724,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "7501049936945"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12490,7 +12490,7 @@ beers = [
                 "PRODUCT_LONG_NAME": "CHARLES WELLS - ULTIMATE BEER INDULGENCE",
                 "_id": 6016,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "5000264012851"
+
             },
             {
                 "PRODUCT_CLASS_NAME": "BEER",
@@ -12508,8 +12508,8 @@ beers = [
                 "PRODUCT_LONG_NAME": "PHILLIPS - GINGER BEER",
                 "_id": 5144,
                 "PRODUCT_MINOR_CLASS_NAME": "BEER",
-                "PRODUCT_BASE_UPC_NO": "626990097358"
+
             }
         ]
-  beers
+  return beers
 end
