@@ -24,12 +24,10 @@ gem 'attachinary', github: 'assembler/attachinary'
 gem 'jquery-fileupload-rails'
 gem 'coffee-rails'
 gem 'rest-client'
-gem 'pry-debugger'
+gem 'pry-byebug'
 gem 'pry-rails'
 
 group :development, :test do
-  gem 'pry-byebug'
-  gem 'pry-rails'
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '~> 3.0.5'
   gem 'spring'
