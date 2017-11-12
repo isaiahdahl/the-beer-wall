@@ -7,7 +7,6 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 require_relative 'beers'
-require 'byebug'
 
 puts "creating some beers"
 beers.each do |beer|
@@ -20,6 +19,9 @@ beers.each do |beer|
   end
 end
 puts "finished"
+
+WallOfBeer.create(name: "gq")
+Want.create(name: "gq")
 # beers.each do |beer|
 #   if beer[:PRODUCT_SUB_CLASS_NAME] == "BEER"
 #     p beer[:PRODUCT_LONG_NAME]
