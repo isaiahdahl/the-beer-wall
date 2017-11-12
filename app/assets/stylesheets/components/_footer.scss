@@ -1,6 +1,6 @@
 .footer {
   width: 100%;
-  height: 50px;
+  height: 75px;
   background-color: #e1e1e1;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -9,6 +9,25 @@
   bottom: 0pt;
   left: 0pt;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.camera {
+  margin-top: 5px;
+}
+
+.search {
+  align-items: center;
+  margin-bottom: 5px;
+  input {
+    border: solid 1px #d8d8d8;
+    border-radius: 6px;
+    font-weight: 100;
+    font-size: 12px;
+    height: 25px;
+    padding: 0 10px;
+    background-color: #fffefe;
+  }
 }

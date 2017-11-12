@@ -3,4 +3,8 @@
     <label for="files"><i class="fa fa-camera"></i></label>
     <input id="files" type="file" accept="image/*" class="inputfile">
   </div>
+  <%= form_tag(beers_path, :method => "get", id: "search-form") do %>
+      <%= text_field_tag :search, params[:search], placeholder: "Search Recipes" %>
+      <%= submit_tag "Search", :name => nil %>
+  <% end %>
 </div>

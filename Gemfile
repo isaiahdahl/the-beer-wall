@@ -18,6 +18,12 @@ gem 'simple_form'
 gem 'uglifier'
 gem 'carrierwave'
 gem 'cloudinary'
+gem 'cloudsight'
+gem 'simple_oauth'
+gem 'attachinary', github: 'assembler/attachinary'
+gem 'jquery-fileupload-rails'
+gem 'coffee-rails'
+gem 'rest-client'
 
 group :development, :test do
   gem 'pry-byebug'

@@ -2,6 +2,11 @@ class BeersController < ApplicationController
   before_action :beer, only: [:edit, :show, :update, :destroy, :add_to_want]
   def index
     @beers = Beer.all
+    if params[:search]
+      @beers = Beer.where("name LIKE ?", "%#{params[:search].upcase}%")
+    else
+      @beers = Beer.all
+    end
   end
 
   def have
@@ -14,6 +19,20 @@ class BeersController < ApplicationController
 
   def dont_have
     @beers = Beer.where(want_id: nil)
+    if params[:search]
+      @beers = @beers.where("name LIKE ?", "%#{params[:search].upcase}%")
+    else
+      @beers
+    end
+  end
+
+  def photo_search
+    @photo = Photo.last
+    arr = ["beer", "can", "the", "pack", "12", "8", "6", "24" "bottle"]
+    description = @photo.description.downcase!
+    arr.each {|x| description.slice!(x) }
+    description.strip!
+    @beers = Beer.where("name LIKE ?", "%#{description.upcase!}%")
   end
 
   def show
@@ -52,9 +71,11 @@ class BeersController < ApplicationController
     redirect_to beers_path
   end
 
+
+
   private
   def beer_params
-    params.require(:beer).permit(:name, :alcohol_percent, :country)
+    params.require(:beer).permit(:name, :alcohol_percent, :country, :search)
   end
 
   def beer

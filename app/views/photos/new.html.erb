@@ -1,0 +1,8 @@
+<div class="cards">
+  <div class="card">
+    <%= simple_form_for(@photo) do  |f|%>
+        <%= f.input :photo, as: :attachinary %>
+        <%= f.button :submit, "Lets check", class: "btn btn-primary" %>
+    <% end %>
+  </div>
+</div>

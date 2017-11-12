@@ -1,2 +1,20 @@
-<%= render 'shared/beer-card' %>
+<div class="cards">
+  <% @beers.each do |beer| %>
+      <div class="card">
+        <div class="left">
+          <div class="column stuff">
+            <h4><%= beer.name.titleize %></h4>
+            <div class="left">
+              <p><%= beer.country.titleize %></p>
+              <p><i class="fa fa-beer"></i> <%= beer.alcohol_percent %> % </p>
+            </div>
+          </div>
+        </div>
+        <div class="right">
+          <%= image_tag("heart.png",size: "30x30", :alt => "wanted") %>
+          <%= image_tag("addbeericon.png",size: "50x30", :alt => "beer") %>
+        </div>
+      </div>
+  <% end %>
+</div>
 <%= render 'shared/footer' %>
