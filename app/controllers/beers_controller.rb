@@ -29,10 +29,10 @@ class BeersController < ApplicationController
   def photo_search
     @photo = Photo.last
     arr = ["beer", "can", "the", "pack", "12", "8", "6", "24" "bottle"]
-    description = @photo.description.downcase!
-    arr.each {|x| description.slice!(x) }
-    description.strip!
-    @beers = Beer.where("name LIKE ?", "%#{description.upcase!}%")
+    @description = @photo.description.downcase!
+    arr.each {|x| @description.slice!(x) }
+    @description.strip!
+    @beers = Beer.where("name LIKE ?", "%#{@description.upcase!}%")
   end
 
   def show
