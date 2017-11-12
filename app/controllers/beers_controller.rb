@@ -27,12 +27,16 @@ class BeersController < ApplicationController
   end
 
   def photo_search
+    if params[:search]
+      redirect_to dont_have_beers_path
+    else
     @photo = Photo.last
     arr = ["beer", "can", "the", "pack", "12", "8", "6", "24" "bottle"]
     @description = @photo.description.downcase!
     arr.each {|x| @description.slice!(x) }
     @description.strip!
     @beers = Beer.where("name LIKE ?", "%#{@description.upcase!}%")
+    end
   end
 
   def show
