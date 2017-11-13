@@ -6,7 +6,7 @@ class PhotosController < ApplicationController
   def create
     @photo = Photo.new(photo_params)
     requestData = Cloudsight::Request.send(locale: 'en', url: "http://res.cloudinary.com/dooq8xjip/image/upload/#{@photo.photo.path}")
-    responseData = Cloudsight::Response.get(requestData['access_token:token'])
+    responseData = Cloudsight::Response.get(requestData['token'])
     @photo.description = responseData["name"]
     sleep(4)
     if @photo.description.nil?
